@@ -43,7 +43,6 @@ li {
   display: flex;
   justify-content: space-evenly;
   width: 50%;
-  align-items: center;
 }
 
 .lista-menu li > a {
